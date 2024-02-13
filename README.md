@@ -1,5 +1,5 @@
 # MARCIO ALEXANDRE FREIRE
-## Meus Projetos em R, Python e Robótica
+## Meus Projetos em R, Python e Eletrônica
 ### Mestre em Administração com foco em ciência de dados em Instituições de Ensino Superior, Análise de Dados e Indicadores de Performance.
 ### Entusiasta de Eletrônica e Robótica
 
